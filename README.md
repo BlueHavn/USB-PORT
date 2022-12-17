@@ -21,8 +21,14 @@ This program is designed using Java to detect when a USB device is inserted or r
 ```
 
 **The program should start running and will continue to run until you stop it. You can stop the program by pressing CTRL+C in the terminal or close command prompt.**
+# <img width="30" align="center" src="https://cdn2.iconfinder.com/data/icons/love-love-love/94/two_hearts-512.png"> Developed using: 
 
-<a href="https://twitter.com/sirkalach" target="_blank">
+<img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"> [JDK](https://www.oracle.com/java/technologies/downloads/)
+<img width="30" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> [JetBrains](https://www.jetbrains.com/idea/)
+<img width="29" align="center" src="https://education.github.com/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png"> [GithubEdu](https://education.github.com/pack?sort=popularity&tag=Design)
+
+# Support Us
+<a href="https://twitter.com/BlueHavn" target="_blank">
 <img width="35" align="center" src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" alt="If you have any quest"/>
 </a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=69PHPVYPNWEUE" target="_blank">
